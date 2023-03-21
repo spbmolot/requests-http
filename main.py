@@ -1,5 +1,5 @@
+# Задание 1
 import requests
-
 
 def superhero_api():
     url = "https://akabab.github.io/superhero-api/api/all.json"
